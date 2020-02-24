@@ -1,10 +1,10 @@
 # Site settings
-title: BY Peng
-SEOTitle: 何鹏的博客 | BY Peng
+title: Peng
+SEOTitle: 何鹏的博客 | HePeng
 header-img: img/post-bg-desk.jpg
 email: jackie_hep@sina.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Peng, 何鹏的博客, peng, 何鹏, C++ , Java, GoLang, Vue, React"
+keyword: "Peng, Peng, 何鹏的博客, peng, 何鹏, C++ , Java, GoLang, Vue, React"
 url: "http://jackiehep.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jackiehep/jackiehep.github.io.git" # you code repository
