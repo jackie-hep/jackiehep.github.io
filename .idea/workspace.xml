@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="" />
+    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-2-23-Fastly Build BLOG.md" afterPath="$PROJECT_DIR$/_posts/2020-2-23-Fastly Build BLOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="jackiehep.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,11 +59,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding>
-                <element signature="e#919#925#0" expanded="true" />
-                <element signature="e#1129#1135#0" expanded="true" />
+                <element signature="e#967#973#0" expanded="true" />
+                <element signature="e#1177#1183#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +82,8 @@
       <file leaf-file-name="2020-2-23-Fastly Build BLOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-2-23-Fastly Build BLOG.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -268,12 +271,12 @@
       <option name="presentableId" value="Default" />
       <updated>1583583228347</updated>
       <workItem from="1583583230364" duration="2838000" />
-      <workItem from="1583619371883" duration="5022000" />
+      <workItem from="1583619371883" duration="5471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7860000" />
+    <option name="totallyTimeSpent" value="8309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="26" width="1400" height="772" extended-state="0" />
@@ -409,19 +412,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-2-23-Fastly Build BLOG.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding>
-            <element signature="e#919#925#0" expanded="true" />
-            <element signature="e#1129#1135#0" expanded="true" />
+            <element signature="e#967#973#0" expanded="true" />
+            <element signature="e#1177#1183#0" expanded="true" />
           </folding>
         </state>
       </provider>
