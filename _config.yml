@@ -8,6 +8,7 @@ keyword: "Peng, Peng, 何鹏的博客, peng, 何鹏, C++ , Java, GoLang, Vue, Re
 url: "http://jackiehep.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jackiehep/jackiehep.github.io.git" # you code repository
+categories: [public,private]
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
