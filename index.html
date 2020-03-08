@@ -3,6 +3,11 @@ layout: page
 description: "路在脚下,心向远方"
 ---
 
+{% for cat in site.categories %}
+<li>
+    {{cat[0]}}
+</li>
+{%endfor%}
 <!--{% for post in paginator.posts %}-->
 {% for post in site.categories.['public'] %}
 <div class="post-preview">
