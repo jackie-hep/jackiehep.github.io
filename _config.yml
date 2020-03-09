@@ -21,8 +21,8 @@ sidebar-avatar: /img/about-BY-hepeng.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     jackiehep
-github_username:    jackiehep
-facebook_username:  jackiehep
+github_username:    jackie-hep
+facebook_username:  Peng He
 jianshu_username:   jackiehep
 #twitter_username:   qiubaiying
 
@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: jackiehep.github.io    #仓库名称
+  owner: jackie-hep    #github用户名
+  admin: jackie-hep
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -103,8 +103,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+         title: "简书·HP",
+        href: "https://www.jianshu.com/u/6c76402fdd91"
     },{
         title: "Apple",
         href: "https://apple.com"
