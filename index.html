@@ -2,15 +2,15 @@
 layout: page
 description: "路在脚下,心向远方"
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
+        {% for cat in post.categories.['public'] %}
+            <li>{{ cat | xml_escape }}</li>
+        {% endfor %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
-        </h2>
-        {% for cat in post.categories.['public'] %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        </h2>        
         
         {% if post.subtitle %}
         <h3 class="post-subtitle">
