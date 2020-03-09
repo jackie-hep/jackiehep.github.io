@@ -2,17 +2,6 @@
 layout: page
 description: "路在脚下,心向远方"
 ---
- {% for cate in site.categories %}
-        {% if cate[0] == "Public" %}  
-           {% for post in cate[1] %}
-                <li> {{ post.title }} </li>
-           {% endfor %}
-        {% elsif cate[0] == "Private" %}
-                <span> {{ post.subtitle }} </span>
-        {% endif %} 
-  {% endfor %}
-
-
 
 {% for post in paginator.posts %}
 <div class="post-preview">
