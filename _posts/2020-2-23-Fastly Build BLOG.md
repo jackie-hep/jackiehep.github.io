@@ -5,7 +5,6 @@ subtitle: Only one test
 date   : 2020-2-23
 author : PengHe
 catalog: true
-categories: Public
 tags:
     HePeng
 ---
