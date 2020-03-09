@@ -3,10 +3,12 @@ layout: page
 description: "路在脚下,心向远方"
 ---
 {% for post in paginator.posts %}
-        {% for cat in post.categories.['Public'] %}
-            <li>{{ cat[1] }}</li>
+        {% for cat in post.categories %}
+           {% if cat[0] %}
+            <li>{{ cat[0] }}</li>
+           {% endif %}
         {% endfor %}
-    <li> debug </li> 
+    <li> begin debug </li> 
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
