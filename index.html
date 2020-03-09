@@ -4,7 +4,7 @@ description: "路在脚下,心向远方"
 ---
 {% for post in paginator.posts %}
         {% for cat in post.categories.['public'] %}
-            <li>{{ cat | xml_escape }}</li>
+            <li>{{ cat[1] }}</li>
         {% endfor %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
