@@ -4,7 +4,7 @@ title  : Fastly build BLOG
 subtitle: Only one test
 date   : 2020-2-23
 author : PengHe
-categories: Public
+categories: Life
 catalog: true
 tags:
      HePeng
