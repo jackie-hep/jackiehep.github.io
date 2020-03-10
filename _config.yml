@@ -63,8 +63,8 @@ disqus_username: disqus_jackiehep
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 80a46b582e2bf215a2d2                            #生成的clientID
-  clientSecret: 59395bcf1974ce372cd0b760cacba1be7ac67232    #生成的clientSecret
+  clientID: f2b1c4d4e840480b81db                          #生成的clientID
+  clientSecret: 3d467ab7d56368f49a550d1f6aa3110c8ff394f8    #生成的clientSecret
   repo: jackiehep.github.io    #仓库名称
   owner: jackiehep    #github用户名
   admin: jackiehep
