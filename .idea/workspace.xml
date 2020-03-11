@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2010-3-11-容器的使用.md" afterPath="$PROJECT_DIR$/_posts/2010-3-11-容器的使用.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md" afterPath="$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-3-10-Git指令整理.md" afterPath="$PROJECT_DIR$/_posts/2020-3-10-Git指令整理.md" />
-    </list>
+    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="" />
     <ignored path="jackiehep.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -106,8 +101,8 @@
       <file leaf-file-name="2020-3-10-Git指令整理.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-3-10-Git指令整理.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -357,12 +352,12 @@
       <workItem from="1583823632009" duration="1465000" />
       <workItem from="1583926380619" duration="2870000" />
       <workItem from="1583961748118" duration="887000" />
-      <workItem from="1583962838628" duration="131000" />
+      <workItem from="1583962838628" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25939000" />
+    <option name="totallyTimeSpent" value="25959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -644,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-3-10-Git指令整理.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
