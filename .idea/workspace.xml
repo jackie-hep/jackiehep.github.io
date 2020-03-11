@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2010-3-11-容器的使用.md" afterPath="$PROJECT_DIR$/_posts/2010-3-11-容器的使用.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md" afterPath="$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md" />
-    </list>
+    <list default="true" id="70805f2d-c17d-42a3-b16c-6186722969d7" name="Default" comment="" />
     <ignored path="jackiehep.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -95,8 +91,8 @@
       <file leaf-file-name="2020-2-23-快速提高成绩.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+            <state relative-caret-position="202">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -357,12 +353,12 @@
       <workItem from="1583926380619" duration="2870000" />
       <workItem from="1583961748118" duration="887000" />
       <workItem from="1583962838628" duration="151000" />
-      <workItem from="1583963442983" duration="80000" />
+      <workItem from="1583963442983" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26039000" />
+    <option name="totallyTimeSpent" value="26055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -638,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-2-23-快速提高成绩.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        <state relative-caret-position="202">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding />
         </state>
       </provider>
